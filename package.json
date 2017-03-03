@@ -1,0 +1,32 @@
+{
+    "name": "@remobile/react-native-module",
+    "version": "1.0.0",
+    "description": "Dynamic loading third party react-native app/module for react-native",
+    "main": "index.js",
+    "author": {
+        "name": "YunJiang.Fang",
+        "email": "42550564@qq.com"
+    },
+    "license": "MIT",
+    "keywords": [
+        "react-native",
+        "react-component",
+        "ios",
+        "android",
+        "module",
+        "thirdparty",
+        "independent",
+        "absolute",
+        "individual",
+        "remobile",
+        "mobile"
+    ],
+    "homepage": "https://github.com/remobile/react-native-module",
+    "bugs": {
+        "url": "https://github.com/remobile/react-native-module/issues"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/remobile/react-native-module.git"
+    }
+}
