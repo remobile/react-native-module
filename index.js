@@ -1,3 +1,7 @@
+/*
+* (The MIT License)
+* Copyright (c) 2015-2017 YunJiang.Fang <42550564@qq.com>
+*/
 'use strict';
 
 const ReactNative = require('react-native');

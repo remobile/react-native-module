@@ -1,6 +1,6 @@
 {
     "name": "@remobile/react-native-module",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Dynamic loading third party react-native app/module for react-native",
     "main": "index.js",
     "author": {
